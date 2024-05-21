@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Maantic Gen AI">bd77a21e93e50210742c3a8efaba10ab</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-16 05:59:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8677e21e14e502100b73f3793e56f0ca</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_page_property_8677e21e14e502100b73f3793e56f0ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 10:01:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1238492_maanti_0.bd77a21e93e50210742c3a8efaba10ab.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{"enable_logo":false,"enable_address":false,"enable_linkset_group":false,"max_linkset_count":0},"enable_footer_bar":true,"footer_bar_options":{"enable_links":true,"max_links_count":5,"enable_social_links":false,"max_social_links_count":7,"social_links":[],"enable_copyright_text":true,"copyright_text":"© 2020 Company Inc. All rights reserved."}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8677e21e14e502100b73f3793e56f0ca"/>
+</record_update>

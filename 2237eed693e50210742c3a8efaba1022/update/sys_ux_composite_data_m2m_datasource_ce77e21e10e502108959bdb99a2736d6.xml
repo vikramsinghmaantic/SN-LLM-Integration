@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">8677e21e87e50210aa1564d210103bd9</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">4277e21ebce5021031b9bc2b836a21d8</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-16 05:59:56</sys_created_on>
+        <sys_id>ce77e21e10e502108959bdb99a2736d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_ce77e21e10e502108959bdb99a2736d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-16 05:59:56</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

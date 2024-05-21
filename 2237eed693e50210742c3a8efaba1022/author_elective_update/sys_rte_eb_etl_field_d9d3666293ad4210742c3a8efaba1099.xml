@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_generated_response__gr_</field>
+        <name>Generated Response (GR)</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 00:22:28</sys_created_on>
+        <sys_id>d9d3666293ad4210742c3a8efaba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generated Response (GR)</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="MockUp Data Data Mapping_etl_ihub">8dd3a2ae936d4210742c3a8efaba1043</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_1238492_maanti_0_ihub_import_04d3ee2293ad4210742c3a8efaba10d2">99d3666293ad4210742c3a8efaba107a</sys_rte_eb_entity>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_d9d3666293ad4210742c3a8efaba1099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 00:22:28</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_rte_eb_etl_field_d9d3666293ad4210742c3a8efaba1099</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>u_generated_response__gr_</field><name>Generated Response (GR)</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-17 00:22:28</sys_created_on><sys_id>d9d3666293ad4210742c3a8efaba1099</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Generated Response (GR)</sys_name><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_rte_eb_definition display_value="MockUp Data Data Mapping_etl_ihub">8dd3a2ae936d4210742c3a8efaba1043</sys_rte_eb_definition><sys_rte_eb_entity display_value="Source_x_1238492_maanti_0_ihub_import_04d3ee2293ad4210742c3a8efaba10d2">99d3666293ad4210742c3a8efaba107a</sys_rte_eb_entity><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_rte_eb_etl_field_d9d3666293ad4210742c3a8efaba1099</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-17 00:22:28</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>963994643</payload_hash>
+        <record_name>Generated Response (GR)</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 00:22:28</sys_created_on>
+        <sys_id>d5d3666293ad4210742c3a8efaba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee96efc410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 00:22:28</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>d9d36662ccad4210c9e2d63363be339a</update_guid>
+        <update_guid_history>d9d36662ccad4210c9e2d63363be339a:963994643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 00:28:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>4680368539ba43f6aee1dd4d314c5fe4</sys_id>
+        <sys_metadata>d9d3666293ad4210742c3a8efaba1099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generated Response (GR)</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_d9d3666293ad4210742c3a8efaba1099</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_d9d3666293ad4210742c3a8efaba1099">d5d3666293ad4210742c3a8efaba109b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 00:28:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

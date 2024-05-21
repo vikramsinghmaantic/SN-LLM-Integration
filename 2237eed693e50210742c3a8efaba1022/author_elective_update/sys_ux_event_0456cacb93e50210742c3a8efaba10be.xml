@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>GENERATED_RESPONSE</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Generated Response</label>
+        <props>[
+    {
+        "fieldType": "",
+        "interfaceApiName": "",
+        "label": "Generated Response",
+        "mandatory": false,
+        "name": "generated_response",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Generated Response",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 11:41:38</sys_created_on>
+        <sys_id>0456cacb93e50210742c3a8efaba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generated Response</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_event_0456cacb93e50210742c3a8efaba10be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 11:41:38</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=0456cacb93e50210742c3a8efaba10be"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ux_event_0456cacb93e50210742c3a8efaba10be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>GENERATED_RESPONSE</event_name><explicit_api_name/><interfaces/><label>Generated Response</label><props>[
+    {
+        "fieldType": "",
+        "interfaceApiName": "",
+        "label": "Generated Response",
+        "mandatory": false,
+        "name": "generated_response",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props><required_translations>[ {
+  "message" : "Generated Response",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-18 11:41:38</sys_created_on><sys_id>0456cacb93e50210742c3a8efaba10be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Generated Response</sys_name><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_ux_event_0456cacb93e50210742c3a8efaba10be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-18 11:41:38</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=0456cacb93e50210742c3a8efaba10be"/></record_update>]]></payload>
+        <payload_hash>2088743107</payload_hash>
+        <record_name>Generated Response</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 11:41:38</sys_created_on>
+        <sys_id>3bd8ca8793690210742c3a8efaba104b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ef10323160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 11:41:38</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>3fd8ca877a6902109f5bb1bc54ba294a</update_guid>
+        <update_guid_history>3fd8ca877a6902109f5bb1bc54ba294a:2088743107</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 04:45:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>5e94bf4b3e33499db7e557c2ef0dfa41</sys_id>
+        <sys_metadata>0456cacb93e50210742c3a8efaba10be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generated Response</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ux_event_0456cacb93e50210742c3a8efaba10be</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_0456cacb93e50210742c3a8efaba10be">3bd8ca8793690210742c3a8efaba104b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 04:45:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

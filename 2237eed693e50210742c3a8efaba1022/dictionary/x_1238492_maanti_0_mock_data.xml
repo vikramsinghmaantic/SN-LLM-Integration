@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4515eea293ad4210742c3a8efaba108a" label="Mock Data" max_length="40" name="x_1238492_maanti_0_mock_data" type="collection">
+        <element label="Comment" max_length="4000" name="comment" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="COMPLETENESS &#10;Comments" max_length="4000" name="completeness_comments" type="string"/>
+        <element label="Completion Count" max_length="40" name="completion_count" type="integer"/>
+        <element label="Expected Result" max_length="4000" name="expected_result" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Generated Response (GR)" max_length="4000" name="generated_response_gr" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HALLUCINATION&#10;Comments" max_length="4000" name="hallucination_comments" type="string"/>
+        <element label="Hallucination Count" max_length="40" name="hallucination_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Task_id" max_length="40" name="task_id" type="string"/>
+        <element attributes="encode_utf8=false" label="Use Case" max_length="32" name="use_case" reference="x_1238492_maanti_0_use_case" type="reference"/>
+        <index name="index">
+            <element name="use_case"/>
+        </index>
+    </element>
+</database>

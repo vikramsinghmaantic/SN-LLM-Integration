@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1238492_maanti_0_use_case">x_1238492_maanti_0_use_case</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>USC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 06:20:53</sys_created_on>
+        <sys_id>754ca61a93690210742c3a8efaba10ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USC</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_number_754ca61a93690210742c3a8efaba10ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 06:20:53</sys_updated_on>
+    </sys_number>
+</record_update>

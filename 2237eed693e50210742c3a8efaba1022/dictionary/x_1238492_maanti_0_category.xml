@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="60ab34ef93310210742c3a8efaba10d9" label="Category" max_length="40" name="x_1238492_maanti_0_category" type="collection">
+        <element label="Category AI Solution" max_length="255" name="name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

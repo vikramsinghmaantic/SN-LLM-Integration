@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5025666e936d4210742c3a8efaba10d3" sys_domain="global" table="x_1238492_maanti_0_mock_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completeness_comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_id>6025e2e293ad4210742c3a8efaba10cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_id>ec25e2e293ad4210742c3a8efaba10cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>generated_response_gr</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_id>e425e2e293ad4210742c3a8efaba10ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_id</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_id>ec25e2e293ad4210742c3a8efaba10ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hallucination_comments</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_id>e425e2e293ad4210742c3a8efaba10cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_result</element>
+            <position>5</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-25 08:05:06</sys_created_on>
+            <sys_id>cc7a9d9993b50210742c3a8efaba10c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-25 08:05:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hallucination_count</element>
+            <position>6</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-25 08:05:36</sys_created_on>
+            <sys_id>a78a51d993b50210742c3a8efaba10b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-25 08:05:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completion_count</element>
+            <position>7</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-25 08:06:14</sys_created_on>
+            <sys_id>38ba11d993b50210742c3a8efaba1084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-25 08:06:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>8</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-25 08:06:42</sys_created_on>
+            <sys_id>abcad5d993b50210742c3a8efaba101e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mock_data" sys_domain="global" view="Default view">5025666e936d4210742c3a8efaba10d3</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-25 08:06:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1238492_maanti_0_mock_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:28:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5025666e936d4210742c3a8efaba10d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1238492_maanti_0_mock_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+            <sys_update_name>sys_ui_section_5025666e936d4210742c3a8efaba10d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:28:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

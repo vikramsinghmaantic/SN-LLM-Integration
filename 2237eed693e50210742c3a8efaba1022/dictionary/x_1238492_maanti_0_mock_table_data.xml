@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="060ff0b0938a8210742c3a8efaba10bd" extends="sys_import_set_row" label="Mock Table Data" max_length="40" name="x_1238492_maanti_0_mock_table_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMMENTS" label="COMMENTS" max_length="1151" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Comments for M / H" label="Comments for M / H" max_length="653" name="u_comments_for_m___h" type="string"/>
+        <element attributes="import_attribute_name=COMPLETENESS &#10;Missed Important Details (3/2/1)" label="COMPLETENESS &#10;Missed Important Details (3/2/1)" max_length="40" name="u_completeness_etails__3_2_1_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMPLETENESS&#10;Reviewer's Comments" label="COMPLETENESS&#10;Reviewer's Comments" max_length="611" name="u_completeness_wer_s_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMPLETENESS&#10;Missed Important Details (3/2/1)&#10;REVIEWER" label="COMPLETENESS&#10;Missed Important Details (3/2/1)&#10;REVIEWER" max_length="40" name="u_completeness__2_1__reviewer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMPLETENESS &#10;Comments" label="COMPLETENESS &#10;Comments" max_length="830" name="u_completeness__comments" type="string"/>
+        <element attributes="import_attribute_name=COMPLETENESS &#10;Missed Important Details (3/2/1)&#10;OWNER" label="COMPLETENESS &#10;Missed Important Details (3/2/1)&#10;OWNER" max_length="40" name="u_completeness___3_2_1__owner" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Complexity &#10;L/M/H" label="Complexity &#10;L/M/H" max_length="40" name="u_complexity__l_m_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EXPECTED RESPONSE" label="EXPECTED RESPONSE" max_length="1632" name="u_expected_response" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Generated Response (GR)" label="Generated Response (GR)" max_length="2094" name="u_generated_response__gr_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HALLUCINATION&#10;Comments" label="HALLUCINATION&#10;Comments" max_length="1030" name="u_hallucination_comments" type="string"/>
+        <element attributes="import_attribute_name=HALLUCINATION&#10;Had Made-up Details (3/2/1)" label="HALLUCINATION&#10;Had Made-up Details (3/2/1)" max_length="40" name="u_hallucinatio_etails__3_2_1_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HALLUCINATION&#10;Reviewer's Comments" label="HALLUCINATION&#10;Reviewer's Comments" max_length="562" name="u_hallucinatio_wer_s_comments" type="string"/>
+        <element attributes="import_attribute_name=HALLUCINATION&#10;Had Made-up Details (3/2/1)&#10;REVIEWER" label="HALLUCINATION&#10;Had Made-up Details (3/2/1)&#10;REVIEWER" max_length="40" name="u_hallucinatio__2_1__reviewer" type="integer"/>
+        <element attributes="import_attribute_name=HALLUCINATION &#10;Had Made-up Details (3/2/1) &#10;OWNER" label="HALLUCINATION &#10;Had Made-up Details (3/2/1) &#10;OWNER" max_length="40" name="u_hallucinatio__3_2_1___owner" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MISATTRIBUTION&#10;Comments" label="MISATTRIBUTION&#10;Comments" max_length="445" name="u_misattribution_comments" type="string"/>
+        <element attributes="import_attribute_name=MISATTRIBUTION&#10;Mixed up who said what (3/2/1)" label="MISATTRIBUTION&#10;Mixed up who said what (3/2/1)" max_length="40" name="u_misattributi_d_what__3_2_1_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MISATTRIBUTION&#10;Reviewer's Comments" label="MISATTRIBUTION&#10;Reviewer's Comments" max_length="336" name="u_misattributi_wer_s_comments" type="string"/>
+        <element attributes="import_attribute_name=MISATTRIBUTION&#10;Mixed up who said what (3/2/1)&#10;Reviewer" label="MISATTRIBUTION&#10;Mixed up who said what (3/2/1)&#10;Reviewer" max_length="40" name="u_misattributi__2_1__reviewer" type="integer"/>
+        <element attributes="import_attribute_name=MISATTRIBUTION&#10;Mixed up who said what (3/2/1)&#10;Owner" label="MISATTRIBUTION&#10;Mixed up who said what (3/2/1)&#10;Owner" max_length="40" name="u_misattributi___3_2_1__owner" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NEW OWNER" label="NEW OWNER" max_length="40" name="u_new_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Prompt" label="Prompt" max_length="32003" name="u_prompt" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RELEVANCE&#10;Comments" label="RELEVANCE&#10;Comments" max_length="655" name="u_relevance_comments" type="string"/>
+        <element attributes="import_attribute_name=RELEVANCE&#10;Had unnecessary info (3/2/1)" label="RELEVANCE&#10;Had unnecessary info (3/2/1)" max_length="40" name="u_relevance_ha_y_info__3_2_1_" type="integer"/>
+        <element attributes="import_attribute_name=RELEVANCE&#10;Had unnecessary info (3/2/1)&#10;Reviewer" label="RELEVANCE&#10;Had unnecessary info (3/2/1)&#10;Reviewer" max_length="40" name="u_relevance_ha__2_1__reviewer" type="integer"/>
+        <element attributes="import_attribute_name=RELEVANCE&#10;Had unnecessary info (3/2/1)&#10;Owner" label="RELEVANCE&#10;Had unnecessary info (3/2/1)&#10;Owner" max_length="40" name="u_relevance_ha___3_2_1__owner" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RELEVANCE&#10;Reviewer's Comments" label="RELEVANCE&#10;Reviewer's Comments" max_length="655" name="u_relevance_re_wer_s_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TAGS" label="TAGS" max_length="293" name="u_tags" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=task_id" label="task_id" max_length="40" name="u_task_id" type="string"/>
+    </element>
+</database>

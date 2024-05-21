@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="5b67d31a93ad0210742c3a8efaba1076" sys_domain="global" table="x_1238492_maanti_0_mockup_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:29:24</sys_created_on>
+            <sys_id>9767d31a93ad0210742c3a8efaba107a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:29:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:30:09</sys_created_on>
+            <sys_id>da97d71a93ad0210742c3a8efaba1015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:30:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>execute</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:30:42</sys_created_on>
+            <sys_id>1ab7db1a93ad0210742c3a8efaba10ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:30:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evalation</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:31:06</sys_created_on>
+            <sys_id>98d7df1a93ad0210742c3a8efaba1092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:31:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dashboard</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:31:40</sys_created_on>
+            <sys_id>20f75f1a93ad0210742c3a8efaba10be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1238492_maanti_0_mockup_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 09:29:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b67d31a93ad0210742c3a8efaba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1238492_maanti_0_mockup_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+            <sys_update_name>sys_ui_section_5b67d31a93ad0210742c3a8efaba1076</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-16 09:29:24</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ui_section_5b67d31a93ad0210742c3a8efaba1076</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5b67d31a93ad0210742c3a8efaba1076" sys_domain="global" table="x_1238492_maanti_0_mockup_data" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:29:24</sys_created_on><sys_id>9767d31a93ad0210742c3a8efaba107a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:29:24</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>use_case</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:30:09</sys_created_on><sys_id>da97d71a93ad0210742c3a8efaba1015</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:30:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>execute</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:30:42</sys_created_on><sys_id>1ab7db1a93ad0210742c3a8efaba10ff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:30:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>evalation</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:31:06</sys_created_on><sys_id>98d7df1a93ad0210742c3a8efaba1092</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:31:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>dashboard</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:31:40</sys_created_on><sys_id>20f75f1a93ad0210742c3a8efaba10be</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1238492_maanti_0_mockup_data" sys_domain="global" view="Default view">5b67d31a93ad0210742c3a8efaba1076</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:31:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1238492_maanti_0_mockup_data</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-16 09:29:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5b67d31a93ad0210742c3a8efaba1076</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1238492_maanti_0_mockup_data</sys_name><sys_overrides/><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_ui_section_5b67d31a93ad0210742c3a8efaba1076</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-16 09:29:24</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>648607624</payload_hash>
+        <record_name>MockUp Data</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 09:31:41</sys_created_on>
+        <sys_id>a4f75f1a93ad0210742c3a8efaba10c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee63f70620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 09:31:41</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2cf75f1a3ead0210b981edfdd928f9bf</update_guid>
+        <update_guid_history>2cf75f1a3ead0210b981edfdd928f9bf:648607624,54d7df1a19ad02108042cbf93f245494:2034597353,92b71f1a2bad0210e83d2fecda526f01:323508750,1697d71acead0210d2c5e010a6b86c17:1536624678,1367d31a54ad0210acf415b20685e97c:1425400298,9f67d31a0fad02108e9bbca3c3dd8979:1660238124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 04:35:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>080eb3d2d3674d9b8972828f00dca299</sys_id>
+        <sys_metadata>5b67d31a93ad0210742c3a8efaba1076</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1238492_maanti_0_mockup_data</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent display_value="">a667931a93ad0210742c3a8efaba10d8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5b67d31a93ad0210742c3a8efaba1076</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5b67d31a93ad0210742c3a8efaba1076">a4f75f1a93ad0210742c3a8efaba10c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 04:35:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

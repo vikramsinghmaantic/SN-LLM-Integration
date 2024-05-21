@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Generate Result">4b876aa693ad4210742c3a8efaba10a6</macroponent>
+        <name>completion_score/value</name>
+        <preset/>
+        <required_translations>[
+    
+]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  var data = api.data.look_up_a_single_record_5.result.completion_count.displayValue;
+	return data;
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-04-25 08:35:38</sys_created_on>
+        <sys_id>53cb55d993b50210742c3a8efaba107b</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>completion_score/value</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_client_script_53cb55d993b50210742c3a8efaba107b</sys_update_name>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-04-25 08:50:40</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ux_client_script_53cb55d993b50210742c3a8efaba107b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Generate Result"&gt;4b876aa693ad4210742c3a8efaba10a6&lt;/macroponent&gt;&lt;name&gt;completion_score/value&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[
+    
+]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  var data = api.data.look_up_a_single_record_5.result.completion_count.displayValue;
+	return data;
+}
+]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ankita&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-25 08:35:38&lt;/sys_created_on&gt;&lt;sys_id&gt;53cb55d993b50210742c3a8efaba107b&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;completion_score/value&lt;/sys_name&gt;&lt;sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0"&gt;2237eed693e50210742c3a8efaba1022&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Maantic Gen AI"&gt;2237eed693e50210742c3a8efaba1022&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_53cb55d993b50210742c3a8efaba107b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;ankita&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-25 08:50:40&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1985554792</payload_hash>
+        <record_name>completion_score/value</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-04-25 08:50:40</sys_created_on>
+        <sys_id>b3d4211993f50210742c3a8efaba1089</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f147321570000001</sys_recorded_at>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-04-25 08:50:40</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>7bd4211992f502101e158a39728f9e88</update_guid>
+        <update_guid_history>7bd4211992f502101e158a39728f9e88:-1985554792,105465d5ecf50210fd9d1e1b962d1f86:1351793892,6f422d1508f50210921481f2c442cefc:1858988475,6761e9d178f502106478356389f21fc3:999700162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-04-25 09:41:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>4ac366edfb4e4b14a6da19b1965b94a4</sys_id>
+        <sys_metadata>53cb55d993b50210742c3a8efaba107b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>completion_score/value</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_53cb55d993b50210742c3a8efaba107b</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_53cb55d993b50210742c3a8efaba107b">b3d4211993f50210742c3a8efaba1089</sys_update_version>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-04-25 09:41:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_4b876aa693ad4210742c3a8efaba10a6</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Link to destination Relay (Generate Result)</label>
+        <props>[
+    {
+        "defaultValue": null,
+        "fieldType": "string",
+        "interfaceApiName": "global.route",
+        "label": "Route type",
+        "name": "route",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Route fields",
+        "name": "fields",
+        "type": "json",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Optionals parameters",
+        "name": "params",
+        "type": "json",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "boolean",
+        "label": "Remove previous URL from browser history",
+        "name": "redirect",
+        "type": "boolean",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Option to load record in background",
+        "fieldType": "boolean",
+        "label": "Load in background (advanced)",
+        "name": "passiveNavigation",
+        "type": "boolean",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Name of tab and browser title",
+        "fieldType": "string",
+        "label": "Title (advanced)",
+        "name": "title",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Specifies which field in route configuration should be used to enable multiple instances of a new record",
+        "fieldType": "string",
+        "label": "Multi-instance field (advanced)",
+        "name": "multiInstField",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Entering \"current\" opens a record in a sub-tab",
+        "fieldType": "string",
+        "label": "Sub-navigation route (advanced)",
+        "name": "targetRoute",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Object for linking to an external URL",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "External URL object",
+        "name": "external",
+        "type": "json",
+        "typeMetadata": {
+            "schema": {
+                "properties": {
+                    "target": {
+                        "description": "Target window to open. Default is _blank",
+                        "type": "string"
+                    },
+                    "url": {
+                        "description": "The URL to open",
+                        "type": "string"
+                    }
+                },
+                "title": "External URL Object",
+                "type": "object"
+            }
+        },
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Object for more navigation options",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Navigation Options object",
+        "name": "navigationOptions",
+        "type": "json",
+        "typeMetadata": {
+            "schema": {
+                "properties": {
+                    "navigateExternal": {
+                        "description": "Enable external navigation",
+                        "type": "boolean"
+                    },
+                    "targetWindowRef": {
+                        "description": "Target window opened by action dispatcher",
+                        "type": "object"
+                    },
+                    "windowOptions": {
+                        "description": "Target and windowOptions with which window.open to be called. Default values are _blank and emptyString",
+                        "type": "json"
+                    }
+                },
+                "title": "Navigation Options Object",
+                "type": "object"
+            }
+        },
+        "valueType": "string"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Entering \"current\" opens a record in a sub-tab",
+  "comment" : ""
+}, {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Name of tab and browser title",
+  "comment" : ""
+}, {
+  "message" : "Navigation Options object",
+  "comment" : ""
+}, {
+  "message" : "Object for linking to an external URL",
+  "comment" : ""
+}, {
+  "message" : "Object for more navigation options",
+  "comment" : ""
+}, {
+  "message" : "Option to load record in background",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Specifies which field in route configuration should be used to enable multiple instances of a new record",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 01:24:29</sys_created_on>
+        <sys_id>8197ea2693ad4210742c3a8efaba10c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (Generate Result)</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_event_8197ea2693ad4210742c3a8efaba10c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 01:24:29</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=8197ea2693ad4210742c3a8efaba10c9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ux_event_8197ea2693ad4210742c3a8efaba10c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>NAV_ITEM_SELECTED_RELAY_4b876aa693ad4210742c3a8efaba10a6</event_name><explicit_api_name/><interfaces/><label>Link to destination Relay (Generate Result)</label><props>[
+    {
+        "defaultValue": null,
+        "fieldType": "string",
+        "interfaceApiName": "global.route",
+        "label": "Route type",
+        "name": "route",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Route fields",
+        "name": "fields",
+        "type": "json",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Optionals parameters",
+        "name": "params",
+        "type": "json",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "fieldType": "boolean",
+        "label": "Remove previous URL from browser history",
+        "name": "redirect",
+        "type": "boolean",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Option to load record in background",
+        "fieldType": "boolean",
+        "label": "Load in background (advanced)",
+        "name": "passiveNavigation",
+        "type": "boolean",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Name of tab and browser title",
+        "fieldType": "string",
+        "label": "Title (advanced)",
+        "name": "title",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Specifies which field in route configuration should be used to enable multiple instances of a new record",
+        "fieldType": "string",
+        "label": "Multi-instance field (advanced)",
+        "name": "multiInstField",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Entering \"current\" opens a record in a sub-tab",
+        "fieldType": "string",
+        "label": "Sub-navigation route (advanced)",
+        "name": "targetRoute",
+        "type": "string",
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Object for linking to an external URL",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "External URL object",
+        "name": "external",
+        "type": "json",
+        "typeMetadata": {
+            "schema": {
+                "properties": {
+                    "target": {
+                        "description": "Target window to open. Default is _blank",
+                        "type": "string"
+                    },
+                    "url": {
+                        "description": "The URL to open",
+                        "type": "string"
+                    }
+                },
+                "title": "External URL Object",
+                "type": "object"
+            }
+        },
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "Object for more navigation options",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Navigation Options object",
+        "name": "navigationOptions",
+        "type": "json",
+        "typeMetadata": {
+            "schema": {
+                "properties": {
+                    "navigateExternal": {
+                        "description": "Enable external navigation",
+                        "type": "boolean"
+                    },
+                    "targetWindowRef": {
+                        "description": "Target window opened by action dispatcher",
+                        "type": "object"
+                    },
+                    "windowOptions": {
+                        "description": "Target and windowOptions with which window.open to be called. Default values are _blank and emptyString",
+                        "type": "json"
+                    }
+                },
+                "title": "Navigation Options Object",
+                "type": "object"
+            }
+        },
+        "valueType": "string"
+    }
+]</props><required_translations>[ {
+  "message" : "Entering \"current\" opens a record in a sub-tab",
+  "comment" : ""
+}, {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Name of tab and browser title",
+  "comment" : ""
+}, {
+  "message" : "Navigation Options object",
+  "comment" : ""
+}, {
+  "message" : "Object for linking to an external URL",
+  "comment" : ""
+}, {
+  "message" : "Object for more navigation options",
+  "comment" : ""
+}, {
+  "message" : "Option to load record in background",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Specifies which field in route configuration should be used to enable multiple instances of a new record",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-17 01:24:29</sys_created_on><sys_id>8197ea2693ad4210742c3a8efaba10c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Link to destination Relay (Generate Result)</sys_name><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_ux_event_8197ea2693ad4210742c3a8efaba10c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-17 01:24:29</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=8197ea2693ad4210742c3a8efaba10c9"/></record_update>]]></payload>
+        <payload_hash>-955919513</payload_hash>
+        <record_name>Link to destination Relay (Generate Result)</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 01:24:29</sys_created_on>
+        <sys_id>7d02fae293ed4210742c3a8efaba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee9a7c41f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 01:24:29</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>3102fae214ed421027d220b979c4dd09</update_guid>
+        <update_guid_history>3102fae214ed421027d220b979c4dd09:-955919513</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 09:53:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>9c8f004f94af40e09920db0fa1c62400</sys_id>
+        <sys_metadata>8197ea2693ad4210742c3a8efaba10c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (Generate Result)</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ux_event_8197ea2693ad4210742c3a8efaba10c9</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_8197ea2693ad4210742c3a8efaba10c9">7d02fae293ed4210742c3a8efaba1009</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 09:53:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

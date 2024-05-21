@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>SET_EVALUATION_RESULT</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Set Evaluation Result</label>
+        <props>[
+    {
+        "fieldType": "string",
+        "interfaceApiName": "",
+        "label": "TableName",
+        "mandatory": false,
+        "name": "TableName",
+        "readOnly": false,
+        "typeMetadata": null
+    },
+    {
+        "fieldType": "",
+        "interfaceApiName": "",
+        "label": "MRSysyid",
+        "mandatory": false,
+        "name": "MRSysyid",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "MRSysyid",
+  "comment" : ""
+}, {
+  "message" : "TableName",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 05:03:59</sys_created_on>
+        <sys_id>b2dbde2c93b10210742c3a8efaba10c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Evaluation Result</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_event_b2dbde2c93b10210742c3a8efaba10c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 05:03:59</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=b2dbde2c93b10210742c3a8efaba10c3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ux_event_b2dbde2c93b10210742c3a8efaba10c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>SET_EVALUATION_RESULT</event_name><explicit_api_name/><interfaces/><label>Set Evaluation Result</label><props>[
+    {
+        "fieldType": "string",
+        "interfaceApiName": "",
+        "label": "TableName",
+        "mandatory": false,
+        "name": "TableName",
+        "readOnly": false,
+        "typeMetadata": null
+    },
+    {
+        "fieldType": "",
+        "interfaceApiName": "",
+        "label": "MRSysyid",
+        "mandatory": false,
+        "name": "MRSysyid",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props><required_translations>[ {
+  "message" : "MRSysyid",
+  "comment" : ""
+}, {
+  "message" : "TableName",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-23 05:03:59</sys_created_on><sys_id>b2dbde2c93b10210742c3a8efaba10c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Evaluation Result</sys_name><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_ux_event_b2dbde2c93b10210742c3a8efaba10c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-23 05:03:59</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=b2dbde2c93b10210742c3a8efaba10c3"/></record_update>]]></payload>
+        <payload_hash>2122051672</payload_hash>
+        <record_name>Set Evaluation Result</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 05:03:59</sys_created_on>
+        <sys_id>efcd1ee093f10210742c3a8efaba1053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f0956e04d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 05:03:59</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>a3cd1ee0aaf102105b14524aa5417753</update_guid>
+        <update_guid_history>a3cd1ee0aaf102105b14524aa5417753:2122051672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 04:45:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>3e71c999141847849e914e1ae6e4c949</sys_id>
+        <sys_metadata>b2dbde2c93b10210742c3a8efaba10c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Evaluation Result</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ux_event_b2dbde2c93b10210742c3a8efaba10c3</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_b2dbde2c93b10210742c3a8efaba10c3">efcd1ee093f10210742c3a8efaba1053</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 04:45:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

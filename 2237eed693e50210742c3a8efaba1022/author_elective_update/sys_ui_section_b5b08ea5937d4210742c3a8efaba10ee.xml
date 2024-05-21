@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="AI Solution" section_id="b5b08ea5937d4210742c3a8efaba10ee" sys_domain="global" table="x_1238492_maanti_0_use_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case_table</element>
+            <position>0</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 05:31:07</sys_created_on>
+            <sys_id>52c042e5937d4210742c3a8efaba106e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solution" display_value="AI Solution" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">b5b08ea5937d4210742c3a8efaba10ee</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 05:31:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>1</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 05:31:07</sys_created_on>
+            <sys_id>dec042e5937d4210742c3a8efaba106e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solution" display_value="AI Solution" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">b5b08ea5937d4210742c3a8efaba10ee</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 05:31:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>AI Solution</caption>
+            <header>false</header>
+            <name>x_1238492_maanti_0_use_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 05:30:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5b08ea5937d4210742c3a8efaba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1238492_maanti_0_use_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+            <sys_update_name>sys_ui_section_b5b08ea5937d4210742c3a8efaba10ee</sys_update_name>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 05:30:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</application>
+        <file_path/>
+        <instance_id>21a5860e1bbd75d852a243f4bd4bcbb8</instance_id>
+        <instance_name>dev183448</instance_name>
+        <name>sys_ui_section_b5b08ea5937d4210742c3a8efaba10ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="AI Solution" section_id="b5b08ea5937d4210742c3a8efaba10ee" sys_domain="global" table="x_1238492_maanti_0_use_case" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>use_case_table</element><position>0</position><sys_created_by>ankita</sys_created_by><sys_created_on>2024-04-26 05:31:07</sys_created_on><sys_id>52c042e5937d4210742c3a8efaba106e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="AI Solution" display_value="AI Solution" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">b5b08ea5937d4210742c3a8efaba10ee</sys_ui_section><sys_updated_by>ankita</sys_updated_by><sys_updated_on>2024-04-26 05:31:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>filter</element><position>1</position><sys_created_by>ankita</sys_created_by><sys_created_on>2024-04-26 05:31:07</sys_created_on><sys_id>dec042e5937d4210742c3a8efaba106e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="AI Solution" display_value="AI Solution" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">b5b08ea5937d4210742c3a8efaba10ee</sys_ui_section><sys_updated_by>ankita</sys_updated_by><sys_updated_on>2024-04-26 05:31:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>AI Solution</caption><header>false</header><name>x_1238492_maanti_0_use_case</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>ankita</sys_created_by><sys_created_on>2024-04-26 05:30:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b5b08ea5937d4210742c3a8efaba10ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1238492_maanti_0_use_case</sys_name><sys_overrides/><sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package><sys_policy/><sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope><sys_update_name>sys_ui_section_b5b08ea5937d4210742c3a8efaba10ee</sys_update_name><sys_updated_by>ankita</sys_updated_by><sys_updated_on>2024-04-26 05:30:49</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-303815665</payload_hash>
+        <record_name>AI Solution</record_name>
+        <reverted_from/>
+        <source>2237eed693e50210742c3a8efaba1026</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-04-26 05:31:07</sys_created_on>
+        <sys_id>96c042e5937d4210742c3a8efaba1071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f18e2ca9c0000001</sys_recorded_at>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-04-26 05:31:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1ec042e5fe7d421002aa5e2276f5bc70</update_guid>
+        <update_guid_history>1ec042e5fe7d421002aa5e2276f5bc70:-303815665</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2848e3a343f1478f8f6c634917fe0c81</sys_id>
+        <sys_metadata>b5b08ea5937d4210742c3a8efaba10ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI Solution</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_parent display_value="AI Solution">714ca61a93690210742c3a8efaba10b8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_scope_delete display_value="">360547dff3cd4e40b6bb0e5711a34e40</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b5b08ea5937d4210742c3a8efaba10ee</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b5b08ea5937d4210742c3a8efaba10ee">96c042e5937d4210742c3a8efaba1071</sys_update_version>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

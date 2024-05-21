@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="714ca61a93690210742c3a8efaba10b8" label="AI Solution" max_length="40" name="x_1238492_maanti_0_use_case" type="collection">
+        <element label="Category" max_length="32" name="category" reference="x_1238492_maanti_0_category" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Condition" max_length="1000" name="condition" type="string"/>
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element dependent="use_case_table" dependent_on_field="use_case_table" label="Filter" max_length="4000" name="filter" type="conditions" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="AI Solution" max_length="40" name="use_case" type="string"/>
+        <element label="Table" max_length="80" name="use_case_table" type="table_name"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+    </element>
+</database>

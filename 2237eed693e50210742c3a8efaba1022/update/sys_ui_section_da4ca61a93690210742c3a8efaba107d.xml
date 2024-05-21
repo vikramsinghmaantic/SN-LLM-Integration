@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="AI Solutio" section_id="da4ca61a93690210742c3a8efaba107d" sys_domain="global" table="x_1238492_maanti_0_use_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+            <sys_id>d754deed93bd4210742c3a8efaba1098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case</element>
+            <position>1</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+            <sys_id>d354deed93bd4210742c3a8efaba1099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case_table</element>
+            <position>2</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+            <sys_id>db54deed93bd4210742c3a8efaba1099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>3</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+            <sys_id>d354deed93bd4210742c3a8efaba109a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-04-26 06:56:39</sys_created_on>
+            <sys_id>db54deed93bd4210742c3a8efaba109a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>5</position>
+            <sys_created_by>ankita</sys_created_by>
+            <sys_created_on>2024-05-02 05:39:20</sys_created_on>
+            <sys_id>053c702393710210742c3a8efaba1086</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Solutio" display_value="AI Solutio" name="x_1238492_maanti_0_use_case" sys_domain="global" view="Default view">da4ca61a93690210742c3a8efaba107d</sys_ui_section>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-05-02 05:39:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>AI Solutio</caption>
+            <header>false</header>
+            <name>x_1238492_maanti_0_use_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-16 06:20:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da4ca61a93690210742c3a8efaba107d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1238492_maanti_0_use_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+            <sys_update_name>sys_ui_section_da4ca61a93690210742c3a8efaba107d</sys_update_name>
+            <sys_updated_by>ankita</sys_updated_by>
+            <sys_updated_on>2024-04-26 06:56:39</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

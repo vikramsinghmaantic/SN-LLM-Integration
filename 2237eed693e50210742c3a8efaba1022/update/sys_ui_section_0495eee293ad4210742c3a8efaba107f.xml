@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Use Case" section_id="0495eee293ad4210742c3a8efaba107f" sys_domain="global" table="x_1238492_maanti_0_use_case" version="3" view="Use_Case_Form">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_case_table</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:31:20</sys_created_on>
+            <sys_id>1bd5662693ad4210742c3a8efaba10c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Use Case" display_value="Use Case" name="x_1238492_maanti_0_use_case" sys_domain="global" view="7b85eee293ad4210742c3a8efaba107a">0495eee293ad4210742c3a8efaba107f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:31:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:31:20</sys_created_on>
+            <sys_id>17d5662693ad4210742c3a8efaba10c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Use Case" display_value="Use Case" name="x_1238492_maanti_0_use_case" sys_domain="global" view="7b85eee293ad4210742c3a8efaba107a">0495eee293ad4210742c3a8efaba107f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:31:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Use Case</caption>
+            <header>false</header>
+            <name>x_1238492_maanti_0_use_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-17 00:30:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0495eee293ad4210742c3a8efaba107f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1238492_maanti_0_use_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+            <sys_update_name>sys_ui_section_0495eee293ad4210742c3a8efaba107f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-17 00:31:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Use Case Form" name="Use_Case_Form">7b85eee293ad4210742c3a8efaba107a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

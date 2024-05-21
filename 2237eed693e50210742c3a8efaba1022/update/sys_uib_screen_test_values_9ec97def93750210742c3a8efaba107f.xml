@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "columnLimit": 1,
+        "columns": "use_case.number,task_id,use_case.sys_id,use_case.filter,generated_response_gr",
+        "enableCellFiltering": false,
+        "enableColumnSorting": false,
+        "enableDeclarativeActions": false,
+        "enableLiveList": true,
+        "enableQuickEdit": true,
+        "filter": "use_case.sys_id=dadc6e5a93690210742c3a8efaba1001",
+        "fixedFilter": "",
+        "groupBy": null,
+        "listTitle": "Case Records",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "rowLimit": 10,
+        "table": "x_1238492_maanti_0_mock_data",
+        "view": ""
+    }
+}</macroponent_config>
+        <screen display_value="Test 1">9ec97def93750210742c3a8efaba107a</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-02 10:08:23</sys_created_on>
+        <sys_id>9ec97def93750210742c3a8efaba107f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_9ec97def93750210742c3a8efaba107f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-02 10:08:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

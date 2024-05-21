@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">b177a21e93e50210742c3a8efaba10ac</app_config>
+        <description/>
+        <extension_point/>
+        <fields>usecasesysid,mocktableName</fields>
+        <icon/>
+        <name>Generate Result</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>generate-result</route_type>
+        <screen_type display_value="Generate Result">8b872e6693ad4210742c3a8efaba104e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 00:38:42</sys_created_on>
+        <sys_id>0b872e6693ad4210742c3a8efaba1051</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Generate Result</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_ux_app_route_0b872e6693ad4210742c3a8efaba1051</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 04:22:49</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=0b872e6693ad4210742c3a8efaba1051"/>
+</record_update>

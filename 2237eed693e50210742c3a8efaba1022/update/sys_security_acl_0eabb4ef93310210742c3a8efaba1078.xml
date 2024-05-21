@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1238492_maanti_0_category</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ankita</sys_created_by>
+        <sys_created_on>2024-05-02 05:36:57</sys_created_on>
+        <sys_id>0eabb4ef93310210742c3a8efaba1078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1238492_maanti_0_category</sys_name>
+        <sys_package display_value="Maantic Gen AI" source="x_1238492_maanti_0">2237eed693e50210742c3a8efaba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maantic Gen AI">2237eed693e50210742c3a8efaba1022</sys_scope>
+        <sys_update_name>sys_security_acl_0eabb4ef93310210742c3a8efaba1078</sys_update_name>
+        <sys_updated_by>ankita</sys_updated_by>
+        <sys_updated_on>2024-05-02 05:36:57</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
